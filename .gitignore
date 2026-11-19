@@ -1,0 +1,39 @@
+# Directorios de build y archivos generados por CMake
+/build/
+/out/
+/dist/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# archivos de C/C++ 
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.pdb
+*.ilk
+
+# Presets de CMake locales
+CMakeUserPresets.json
+
+# Archivos de configuración de IDEs
+.vs/
+.idea/
+.vscode/.browse.VC.db*
+*.code-workspace
+
+# Archivos de sistema y metadatos
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.bak
